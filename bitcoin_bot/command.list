@@ -1,0 +1,6 @@
+carga:uptime
+ip:meuip
+bitcoin:/opt/scripts/btc.sh
+cinema:/opt/scripts/cinema.sh
+almoco:/opt/scripts/almoco.sh
+cotacao:python /opt/scripts/CotacaoMoedas.py
